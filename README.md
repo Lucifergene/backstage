@@ -1,4 +1,4 @@
-[![headline](docs/assets/headline.png)](https://backstage.io/)sdfsdf
+[![headline](docs/assets/headline.png)](https://backstage.io/)
 
 # [Backstage](https://backstage.io)
 
